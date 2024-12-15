@@ -1,0 +1,38 @@
+{
+    "packages": {
+        "com.cryii.ts-translator": "https://github.com/cryii/com.cryii.ts-translator.git",
+        "com.cryii.easy-helper": "https://github.com/cryii/com.cryii.easy-helper.git",
+        "com.cryii.xls-to": "https://github.com/cryii/com.cryii.xls-to.git",
+        
+        "com.cryii.i.ui-framework": "https://github.com/cryii/com.cryii.i.ui-framework.git",
+        "com.cryii.i.lua-wrapper": "https://github.com/cryii/com.cryii.i.lua-wrapper.git",
+        "com.cryii.i.easy-engine": "https://github.com/cryii/com.cryii.i.easy-engine.git",
+        "com.cryii.i.client-render": "https://github.com/cryii/com.cryii.i.client-render.git",
+        
+        "com.unity.nuget.newtonsoft-json": "com.unity.nuget.newtonsoft-json",
+        "com.unity.cinemachine": "com.unity.cinemachine",
+        "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+    },
+    
+    "work_directory": {
+        "Assets": {
+            "res": {
+                "scene": {},
+                "model": {},
+                "effect": {},
+                "ui": {
+                    "atlas": {},
+                    "prefab": {},
+                    "font": {}
+                }
+            }
+        },
+        "ui_prefab_directory": "Assets/res/ui/prefab/"
+    },
+    
+    "lua_config": {
+        "dev_directory": "../lua_logic",
+        "ts_ui_directory": "../lua_logic/ts/ui",
+        "unity_dts_file": "../lua_logic/ts/types/unity.d.ts"
+    }
+}

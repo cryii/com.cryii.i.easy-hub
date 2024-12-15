@@ -1,0 +1,17 @@
+{
+    "name": "com.cryii.i.easy-hub.editor",
+    "rootNamespace": "",
+    "references": [
+        "com.cryii.i.easy-hub.public",
+        "com.cryii.i.ui-framework.editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

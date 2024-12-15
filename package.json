@@ -1,0 +1,15 @@
+{
+    "name": "com.cryii.i.easy-hub",
+    "displayName": "CRI-Easy Hub",
+    "version": "1.0.0",
+    "description": "com.cryii.i.easy-hub",
+    "unity": "2022.3",
+    "keywords": [
+        "Easy Hub"
+    ],
+    "author": {
+        "name": "cryii",
+        "email": "icryingcat@gmail.com"
+    },
+    "license": "MIT"
+}
